@@ -1,0 +1,57 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/heart"
+        android:title="@string/favorite"
+        android:contentDescription="@string/content_description_favorite"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:title="@string/search"
+        android:contentDescription="@string/content_description_search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/first"
+        android:title="first"
+        android:contentDescription="@string/content_description_more"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/second"
+        android:title="second"
+        android:contentDescription="@string/content_description_more"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/third"
+        android:title="third"
+        android:contentDescription="@string/content_description_more"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/four"
+        android:title="fourth"
+        android:contentDescription="@string/content_description_more"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/five"
+        android:title="fifth"
+        android:contentDescription="@string/content_description_more"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/six"
+        android:title="sixth"
+        android:contentDescription="@string/content_description_more"
+        app:showAsAction="never" />
+
+</menu>

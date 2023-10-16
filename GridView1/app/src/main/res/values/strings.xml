@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridView1</string>
+    <string name="title">flowers\n</string>
+    <string name="content_description_media">item description\n</string>
+    <string name="action_2">Market: 120 Rs.\n</string>
+    <string name="action_1">FPO: 150 Rs.</string>
+</resources>

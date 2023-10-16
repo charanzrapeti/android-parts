@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="content_description_media">description</string>
+    <string name="title">Title</string>
+    <string name="secondary_text">soil image</string>
+    <string name="action_1">FPO: 150 Rs.</string>
+    <string name="action_2">Market: 180 Rs.</string>
+    <string name="page_title">page title</string>
+    <string name="content_description_favorite">description\n</string>
+    <string name="search">search\n</string>
+    <string name="more">more</string>
+    <string name="content_description_more">more\n</string>
+    <string name="favorite">favourites</string>
+    <string name="content_description_search">search</string>
+</resources>
